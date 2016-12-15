@@ -3,6 +3,7 @@
 
 #include "opencv2\opencv.hpp"
 
+// This code is basixally just to test :  resizing the windows to the size of the actual image in OpenCV
 int main(int argc, char** argv)
 {
 	if (argc < 2)
