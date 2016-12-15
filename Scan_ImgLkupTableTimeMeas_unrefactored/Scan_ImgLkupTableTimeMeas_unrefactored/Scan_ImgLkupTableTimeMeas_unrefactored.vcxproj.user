@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>"F:\OneDrive\sem 4\mac vis\temp match\shield.tif" 100 [G]</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerEnvironment>PATH=C:\opencv\build_org\x64\vc14\bin;$(PATH)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+</Project>
