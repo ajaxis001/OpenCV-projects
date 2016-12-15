@@ -7,7 +7,7 @@ int main(int argc, char** argv)
 {
 	if (argc < 2)
 	{
-		std::cout << "USAEG: file_name image_name" << std::endl;
+		std::cout << "USAGE: file_name image_name" << std::endl;
 		return -1;
 	}
 	
